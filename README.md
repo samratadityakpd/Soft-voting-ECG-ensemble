@@ -153,14 +153,15 @@ source .venv/bin/activate  # Activate on Linux/macOS
    jupyter notebook ECG_classification_ensemble.ipynb
    ```
 
-##Contributing
+## Contributing
+
 Contributions are welcome!  Please feel free to open issues or submit pull requests.
 
 Bug reports: If you encounter any bugs, please create a detailed issue describing the problem and steps to reproduce it.
 Feature requests: If you have ideas for new features or improvements, please open an issue to discuss them.
 Pull requests: If you'd like to contribute code, please submit a pull request with a clear description of your changes. Make sure to follow the project's coding style and conventions.
 
-##Acknowledgements
+## Acknowledgements
 The authors of the MIT-BIH Arrhythmia Dataset.
 The developers of the open-source libraries used in this project, including:
 PyTorch
